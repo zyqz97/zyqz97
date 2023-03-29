@@ -1,6 +1,6 @@
 ### Hi, I'm Yuqi Zhang 👋
 
-![Yuqi Zhang's github stars](https://github-readme-stats.vercel.app/api?username=zyqz97&show_icons=true&hide=prs&count_private=false&theme=default_repocard&include_orgs=true)
+![Yuqi Zhang's github stars](https://github-readme-stars.vercel.app/api?username=zyqz97&show_icons=true&hide=prs&count_private=false&theme=default_repocard&include_orgs=true)
 
 ✧ Homepage: https://zyqz97.github.io/
 
